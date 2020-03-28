@@ -1,0 +1,16 @@
+{
+  "name": "garmin-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "garmin-connect": "github:ray0711/garmin-connect",
+    "unzipper": "^0.10.10"
+  }
+}
