@@ -9,8 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "babel-cli": "^6.26.0",
-    "garmin-connect": "github:ray0711/garmin-connect",
-    "unzipper": "^0.10.10"
+    "garmin-connect": "https://github.com/Pythe1337N/garmin-connect",
+    "unzipper": "^0.10.11"
   }
 }
